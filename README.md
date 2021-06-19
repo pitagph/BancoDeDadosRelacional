@@ -2,6 +2,7 @@
 
 Banco Relacional Simples.
 
+![](https://github.com/pitagph/BancoDeDadosRelacional/blob/02f2ceb2827491b02d6bd1df21a60024b0ce8869/EsquemaConceitualBancodeDadosCurso.png?raw=true)
 
 ![](https://github.com/pitagph/BancoDeDadosRelacional/blob/398cb41acaf1b66c6b0484d72d440b1f50e7ff02/modelodbrelacional.png?raw=true)
 
