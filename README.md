@@ -1,6 +1,6 @@
 # BancoDeDadosRelacional
 
-Banco Relacional Simples.
+Banco Relacional Simples entre duas tabelas é uma intermediaria, em um modelo de Relacionamento n:n (muitos para muitos)
 
 ![](https://github.com/pitagph/BancoDeDadosRelacional/blob/02f2ceb2827491b02d6bd1df21a60024b0ce8869/EsquemaConceitualBancodeDadosCurso.png?raw=true)
 
